@@ -6,7 +6,7 @@ This application enables users to effortlessly track their cycling and running a
 ## Project GIF
 
 <div class="gif-container" style="display: flex; justify-content: center; margin-left: auto; margin-right: auto;">
-    <img src="./BankistWebsiteGIF.gif" alt="Alt Text">
+    <img src="./MaptyGIF.gif" alt="Alt Text">
 </div>
 
 ## 🚀 Demo
@@ -15,7 +15,7 @@ This application enables users to effortlessly track their cycling and running a
 <img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
 </a>
 
-Try the application: https://maham-ishtiaq-2000.github.io/Bankist-Website/
+Try the application: https://maham-ishtiaq-2000.github.io/Mapty/
 
 
 ## 🛠️ Installation Steps
@@ -23,13 +23,13 @@ Try the application: https://maham-ishtiaq-2000.github.io/Bankist-Website/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/maham-ishtiaq-2000/Bankist-app.git
+git clone https://github.com/maham-ishtiaq-2000/Mapty.git
 ```
 
 2. Change the working directory
 
 ```bash
-cd Bankist-Website.git
+cd Mapty.git
 ```
 
 3. Install dependencies
@@ -51,4 +51,5 @@ npx index.html
 
 - [HTML](https://www.gatsbyjs.com/) for structure
 - [CSS](https://tailwindcss.com/) for styling
+- [GoogleMaps] to access location
 - [JavaScript](https://greensock.com/gsap/) for adding functionality
